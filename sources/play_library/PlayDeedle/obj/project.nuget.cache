@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7KwdtuAGbhg3AhlSTpnR0GMVL7USPKKDFEp8OKJHTPJl443OkT4xdWrtwAycKUIg9ZT9rXlF/YruqJruem7GFA==",
+  "success": true,
+  "projectFilePath": "E:\\Cloud\\Cosphi\\programming\\fsharp-lesson\\sources\\play_library\\PlayDeedle\\PlayDeedle.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sin\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
