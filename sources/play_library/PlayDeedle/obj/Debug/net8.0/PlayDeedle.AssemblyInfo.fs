@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("PlayDeedle")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af564be3f93c24b93f3247e258587c79dc4462bc")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cad8d76fff137c19b6a4cf0dad50a40874f9f177")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("PlayDeedle")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("PlayDeedle")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
